@@ -1,0 +1,23 @@
+maxivision-mobile by Arto Liukkonen ( http://www.facebook.com/artoliukkonen ) is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+
+Using CodeIgniter framework, see attached lisence.txt
+
+Maxivision Mobile is a parser and mobile UI for Finnish IPTV provider Maxivision (www.maxivision.fi). 
+Since Maxivision doesn't offer a mobile UI, here's one for you. Maxivision TOS allows you to set up this in your own enviroment, however setting this as a public service is forbidden. 
+You will automatically be signed in using credentials defined in config. If you want manual login, feel free to fork. 
+
+NOTE: You cannot use this if you don't own Maxivision account! If you need help setting this code up, feel free to contact me. 
+
+FEATURES
+ * List programs by channel & date
+ * Add and remove recordings
+ 
+TODO
+ * Manual login
+ * Better date selector (UI)
+ * Managing recordings (backend)
+ 
+SCREENSHOTS
+https://dl.dropbox.com/u/561667/maxivision/2012-08-20_1042.png
+https://dl.dropbox.com/u/561667/maxivision/2012-08-20_1043.png
+https://dl.dropbox.com/u/561667/maxivision/2012-08-20_1044.png
